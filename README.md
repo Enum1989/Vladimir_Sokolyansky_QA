@@ -4,7 +4,7 @@
 
 # Hello everyone! ✌️
 ## 💻 My name is Vladimir Sokolansky, and here’s my [Resume(HEB)](https://drive.google.com/file/d/1rjSScBraYgLO6DFx4jEa0geVLC8-PreG/view).
-### 📝 In August 2024, I completed the [Yandex Practicum](https://practicum.yandex.ru/) courses for "Test Engineer". My [Diploma](https://drive.google.com/file/d/1ZTHs7CNX_7MdgNyAOjaBHHxlFnnHBhe_/view).
+### 📝 In August 2024, I completed the [Yandex Practicum](https://practicum.yandex.ru/) courses for "Test Engineer". My [Сertificate(ENG)](https://drive.google.com/file/d/1ZTHs7CNX_7MdgNyAOjaBHHxlFnnHBhe_/view).
 
 **Here is my portfolio, based on several projects I worked on as part of the "Test Engineer(RUS)" course.**
 
