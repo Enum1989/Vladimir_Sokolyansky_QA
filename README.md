@@ -18,5 +18,5 @@
 
 **- :scroll: Diploma Project: [Yandex Scooter Testing](https://docs.google.com/document/d/1bAQ3Mf3YyvCP0K9X1_21hmNxKx2Vd59RBSBwl-iinIc/edit?tab=t.0)**
 
-**:heavy_plus_sign: I am currently in the process of studying for the ISTQB certification. After that, I will be taking the additional course 💻 "API Test Automation Development with Python". I believe that, first and foremost, it's important to focus on manual testing in order to understand what to automate and how to do it effectively in the future.**
+**I am currently in the process of studying for the ISTQB certification. After that, I will be taking the additional course 💻 "API Test Automation Development with Python". I believe that, first and foremost, it's important to focus on manual testing in order to understand what to automate and how to do it effectively in the future.**
 
