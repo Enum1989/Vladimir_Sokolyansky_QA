@@ -12,5 +12,11 @@
 
 **- :newspaper: Creation of Checklists for Testing the Layout and Logic of [Yandex Routes Web Applications](https://docs.google.com/document/d/1Ft5XXduJBn2-1McsWgn9yJZDpu23CKGuA49aUBqGx90/edit?tab=t.0).**
 
-**- :credit_card: Sprint: Functional and Regression Testing of the [Yandex Metro Android Application](https://docs.google.com/document/d/1L5gOk_rl2XOW-NjiL5IjBEqZ5XXehSmHVsjo8MOPRDM/edit?tab=t.0).**
+**- :iphone: Functional and Regression Testing of the [Yandex Metro Android Application](https://docs.google.com/document/d/1L5gOk_rl2XOW-NjiL5IjBEqZ5XXehSmHVsjo8MOPRDM/edit?tab=t.0).**
+
+**- :satellite: API Testing of [Yandex Store](https://docs.google.com/document/d/1KW_NXQ9oeqQnLqcpqewLn095gM0EzQYVC6eTOLW7CDQ/edit?tab=t.0).**
+
+**- :scroll: Diploma Project: [Yandex Scooter Testing](https://docs.google.com/document/d/1bAQ3Mf3YyvCP0K9X1_21hmNxKx2Vd59RBSBwl-iinIc/edit?tab=t.0)**
+
+**I am currently in the process of studying for the ISTQB certification. After that, I will be taking the additional course :computer: "API Test Automation Development with Python".**
 
