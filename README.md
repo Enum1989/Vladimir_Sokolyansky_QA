@@ -1,6 +1,6 @@
 # Vladimir_Sokolyansky_QA
 
-**Contact me: 📧 meloman1989@gmail.com 📞 +9725499288655**
+**Contact me: 📧 meloman1989@gmail.com 📞 +972549288655**
 
 # Hello everyone! ✌️
 ## 💻 My name is Vladimir Sokolansky, and here’s my [Resume(HEB)](https://drive.google.com/file/d/1rjSScBraYgLO6DFx4jEa0geVLC8-PreG/view).
