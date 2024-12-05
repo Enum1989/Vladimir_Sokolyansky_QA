@@ -18,5 +18,33 @@
 
 **- :scroll: Diploma Project: [Yandex Scooter Testing](https://docs.google.com/document/d/1bAQ3Mf3YyvCP0K9X1_21hmNxKx2Vd59RBSBwl-iinIc/edit?tab=t.0)**
 
+**Skills & Tools 🛠️**
+
+Databases & SQL:
+Database creation, writing common SQL queries.
+Experience with MySQL, PostgreSQL, Terminal, and CygWin.
+
+Testing Processes:
+Software development models: Agile, Scrum.
+Functional and non-functional testing: Load, Usability, Failure and Recovery, Regression, Sanity, and Maintenance testing.
+
+Test Documentation:
+Proficient in creating Test Strategy (STP), Test Design (STD), and Test Report (STR) documents.
+
+Test Case Design:
+Writing, executing, and reporting test cases.
+Familiar with requirement modules and test coverage matrices for scenarios and bugs.
+
+Bug Tracking Tools:
+Experience with YouTrack for bug management and reporting.
+
+Development Languages:
+Proficient in HTML and CSS for web-based testing.
+
+Web & Mobile Testing:
+Extensive experience in Web and Mobile testing, including Usability and Compatibility testing.
+Proficient in tools like DevTools, Figma, Charles, Android Studio, and ADB.
+
 **I am currently in the process of studying for the ISTQB Certified Tester Foundation Level v. 4.0 2023. After that, I will be taking the additional course 💻 "API Test Automation Development with Python". I believe that, first and foremost, it's important to focus on manual testing in order to understand what to automate and how to do it effectively in the future.**
+
 
