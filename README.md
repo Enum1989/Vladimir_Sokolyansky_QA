@@ -45,6 +45,9 @@ Web & Mobile Testing:
 Extensive experience in Web and Mobile testing, including Usability and Compatibility testing.
 Proficient in tools like DevTools, Figma, Charles, Android Studio, and ADB.
 
+API Interface Testing:
+Familiarity with tools Postman\Apidoc\Swagger\JSON\XML.
+
 **I am currently in the process of studying for the ISTQB Certified Tester Foundation Level v. 4.0 2023. After that, I will be taking the additional course 💻 "API Test Automation Development with Python". I believe that, first and foremost, it's important to focus on manual testing in order to understand what to automate and how to do it effectively in the future.**
 
 
