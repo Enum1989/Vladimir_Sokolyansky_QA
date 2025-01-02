@@ -48,6 +48,6 @@ Proficient in tools like DevTools, Figma, Charles Proxy, Fiddler, Android Studio
 API Interface Testing:
 Familiarity with tools Postman\Apidoc\Swagger\JSON\XML.
 
-**I am currently in the process of studying for the ISTQB Certified Tester Foundation Level v. 4.0 2023. After that, I will be taking the additional course 💻 "API Test Automation Development with Python". I believe that, first and foremost, it's important to focus on manual testing in order to understand what to automate and how to do it effectively in the future.**
+**I have left is to complete the final exam for the ISTQB Certified Tester Foundation Level v. 4.0 2023.. After that, I will be taking the additional course 💻 "API Test Automation Development with Python". I believe that, first and foremost, it's important to focus on manual testing in order to understand what to automate and how to do it effectively in the future.**
 
 
