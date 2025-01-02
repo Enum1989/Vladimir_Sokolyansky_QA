@@ -43,7 +43,7 @@ Proficient in HTML and CSS for web-based testing.
 
 Web & Mobile Testing:
 Extensive experience in Web and Mobile testing, including Usability and Compatibility testing.
-Proficient in tools like DevTools, Figma, Charles, Android Studio, and ADB.
+Proficient in tools like DevTools, Figma, Charles Proxy, Fiddler, Android Studio, and ADB.
 
 API Interface Testing:
 Familiarity with tools Postman\Apidoc\Swagger\JSON\XML.
